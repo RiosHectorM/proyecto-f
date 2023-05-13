@@ -8,6 +8,7 @@ export default function Home() {
     <main className='flex flex-col items-center justify-between p-24'>
       <h1>Agregar Datos a la bd</h1>
       <Formulario />
+      456456456
     </main>
   );
 }
